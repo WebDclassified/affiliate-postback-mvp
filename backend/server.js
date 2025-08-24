@@ -1,11 +1,9 @@
-// server.js
 const express = require('express');
 const cors = require('cors');
 const db = require('./db');
 const app = express();
 const port = process.env.PORT || 3001;
 
-// Enable CORS for all routes, allowing the frontend to make requests
 app.use(cors());
 app.use(express.json());
 
@@ -43,7 +41,7 @@ app.get('/click', async (req, res) => {
         console.error('Error tracking click:', err);
         res.status(500).json({ status: 'error', message: 'Internal server error' });
     }
-});http://localhost:3001/click?affiliate_id=2&campaign_id=2&click_id=abc12347
+});
 
 
 /**

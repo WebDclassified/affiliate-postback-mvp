@@ -1,3 +1,9 @@
+/* frontend/app/globals.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* You can add a default background color here for better readability */
+body {
+  background-color: #ffffff;
+}

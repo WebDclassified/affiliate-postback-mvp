@@ -10,13 +10,13 @@ This project is a Minimal Viable Product (MVP) of an affiliate marketing system 
 
 ## 💻 Technologies
 
-- ** Backend -** `Node.js, Express.js` 
+- **Backend -** `Node.js, Express.js` 
      The core framework for the API endpoints.
 
-- ** Database -** `PostgreSQL`
+- **Database -** `PostgreSQL`
     A relational database used to store all clicks, conversions, and affiliate data.
 
-- ** Frontend -** `Next.js` 
+- **Frontend -** `Next.js` 
     A React framework used to build the affiliate dashboard.
 
 - **Styling -** `Tailwind CSS`

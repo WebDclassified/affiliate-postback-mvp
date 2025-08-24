@@ -4,9 +4,9 @@ This project is a Minimal Viable Product (MVP) of an affiliate marketing system 
 
 ## ✨ Features
 - **Click Tracking:** An endpoint to record affiliate clicks with a unique click_id.
-- ** Postback Endpoint:** A secure endpoint that receives and validates conversion notifications from an advertiser's server.
-- ** Affiliate Dashboard:** A frontend application that displays an affiliate's clicks and conversions.
-- ** Unique Postback URL Generation:** The dashboard shows a unique, personalized postback URL format for each affiliate.
+- **Postback Endpoint:** A secure endpoint that receives and validates conversion notifications from an advertiser's server.
+- **Affiliate Dashboard:** A frontend application that displays an affiliate's clicks and conversions.
+- **Unique Postback URL Generation:** The dashboard shows a unique, personalized postback URL format for each affiliate.
 
 ## 💻 Technologies
 

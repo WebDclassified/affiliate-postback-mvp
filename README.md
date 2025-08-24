@@ -4,19 +4,19 @@ This project is a Minimal Viable Product (MVP) of an affiliate marketing system 
 
 ## ✨ Features
 - **Click Tracking:** An endpoint to record affiliate clicks with a unique click_id.
--** Postback Endpoint:** A secure endpoint that receives and validates conversion notifications from an advertiser's server.
--** Affiliate Dashboard:** A frontend application that displays an affiliate's clicks and conversions.
--** Unique Postback URL Generation:** The dashboard shows a unique, personalized postback URL format for each affiliate.
+- ** Postback Endpoint:** A secure endpoint that receives and validates conversion notifications from an advertiser's server.
+- ** Affiliate Dashboard:** A frontend application that displays an affiliate's clicks and conversions.
+- ** Unique Postback URL Generation:** The dashboard shows a unique, personalized postback URL format for each affiliate.
 
 ## 💻 Technologies
 
--** Backend -** `Node.js, Express.js` 
+- ** Backend -** `Node.js, Express.js` 
      The core framework for the API endpoints.
 
 - ** Database -** `PostgreSQL`
     A relational database used to store all clicks, conversions, and affiliate data.
 
--** Frontend -** `Next.js` 
+- ** Frontend -** `Next.js` 
     A React framework used to build the affiliate dashboard.
 
 - **Styling -** `Tailwind CSS`
